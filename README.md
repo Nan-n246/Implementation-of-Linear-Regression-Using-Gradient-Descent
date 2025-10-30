@@ -17,12 +17,11 @@ To write a program to predict the profit of a city using the linear regression m
 
 4.Plot the Cost function using Gradient Descent and generate the required graph.
 
-
 ## Program:
-```
+
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: Nandhini.S
+Developed by:Nandhini S
 RegisterNumber:212224230174
 */
 ```
@@ -59,21 +58,24 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
+
 data information
-<img width="558" height="222" alt="image" src="https://github.com/user-attachments/assets/73adefe9-7899-40bc-a2f9-b30d7467b3cc" />
+
+<img width="558" height="222" alt="image" src="https://github.com/user-attachments/assets/77fd4b4a-7c34-4719-9f8b-aebb74f732e6" />
 
 Value of x
-<img width="225" height="713" alt="image" src="https://github.com/user-attachments/assets/3b76c523-d1e9-4d97-a6d6-1d3a2011761f" />
+
+<img width="225" height="713" alt="image" src="https://github.com/user-attachments/assets/152380d4-129a-4eb9-947d-07a8c149a71b" />
 
 Value of X1_scaled
-<img width="343" height="707" alt="image" src="https://github.com/user-attachments/assets/19759c1e-cb25-454f-a358-5c820017a349" />
+
+
+<img width="343" height="707" alt="image" src="https://github.com/user-attachments/assets/456515ae-6439-402d-9f3e-a6c1b7d521a7" />
 
 predicted value
 
-<img width="247" height="46" alt="image" src="https://github.com/user-attachments/assets/f1ac7682-e200-40f3-8847-779e709184ea" />
-
-
-
+<img width="247" height="46" alt="image" src="https://github.com/user-attachments/assets/7b5eb274-3634-42e4-ad66-6e4944b49d7c" />
 
 ## Result:
+
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
