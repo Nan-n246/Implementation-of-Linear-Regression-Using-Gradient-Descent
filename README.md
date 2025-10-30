@@ -19,15 +19,13 @@ To write a program to predict the profit of a city using the linear regression m
 
 
 ## Program:
-```
+
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: Nandhini.S
 RegisterNumber:212224230174
 */
 ```
-```
-
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -61,22 +59,21 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-
 data information
-
-![image](https://github.com/user-attachments/assets/1808d90a-b79a-4f1c-bd86-d9237d4cb0a9)
+<img width="558" height="222" alt="image" src="https://github.com/user-attachments/assets/73adefe9-7899-40bc-a2f9-b30d7467b3cc" />
 
 Value of x
-
-![image](https://github.com/user-attachments/assets/eefc8129-7d48-40f0-b792-4d107ee1643c)
+<img width="225" height="713" alt="image" src="https://github.com/user-attachments/assets/3b76c523-d1e9-4d97-a6d6-1d3a2011761f" />
 
 Value of X1_scaled
-
-![image](https://github.com/user-attachments/assets/925e3031-d290-4a6f-bd8e-d3511698214c)
+<img width="343" height="707" alt="image" src="https://github.com/user-attachments/assets/19759c1e-cb25-454f-a358-5c820017a349" />
 
 predicted value
 
-![image](https://github.com/user-attachments/assets/3c964f5f-ed80-4ad0-bd25-544e3949f9ea)
+<img width="247" height="46" alt="image" src="https://github.com/user-attachments/assets/f1ac7682-e200-40f3-8847-779e709184ea" />
+
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
